@@ -1,8 +1,8 @@
-# Soham's Data Pulse Portfolio
+# Soham's Data Pulse Portfolio 📊
 
 Welcome to Soham's Data Pulse Portfolio! This portfolio showcases my journey as a data scientist and highlights my skills, education, certifications, projects, and contact information.
 
-## About Me
+## About Me ℹ️
 I am Soham, a passionate data scientist with expertise in data analysis, machine learning, and data visualization. For this portfolio website, I utilized the following skills to create an engaging and user-friendly experience:
 
 - **HTML**: Used for structuring the content of the web pages.
@@ -10,7 +10,7 @@ I am Soham, a passionate data scientist with expertise in data analysis, machine
 - **Bootstrap**: Integrated to enhance responsiveness and streamline the development process.
 - **JavaScript**: Utilized for adding interactivity and dynamic behavior to the website elements.
 
-## Skills
+## Skills 🚀
 - Data Analysis
 - Machine Learning
 - Data Visualization
@@ -19,14 +19,14 @@ I am Soham, a passionate data scientist with expertise in data analysis, machine
 - R Programming
 - SQL
 
-## Contact Information
+## Contact Information 📧
 - Email: sohamwork1523@gmail.com
 - Phone: +91 9370551180, +91 8956681508
 - Address: 245/7 Uma Nagri Juni Mill Compound, Solapur, Maharashtra
 
-## Follow Me
+## Follow Me 🔗
 - [LinkedIn](https://www.linkedin.com/in/dharnesoham/)
 - [GitHub](https://github.com/Data-eng15)
 - LeetCode
 
-Feel free to explore my portfolio and get in touch!
+Feel free to explore my portfolio and get in touch! 🌟
