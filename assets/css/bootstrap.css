@@ -265,7 +265,7 @@ button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
-  -webkit-appearance: button;
+-webkit-appearance: button;
 }
 
 button:not(:disabled),
@@ -8375,7 +8375,7 @@ button.bg-dark:focus {
 
 .pb-3,
 .py-3 {
-  padding-bottom: 1rem !important;
+  padding-bottom: 2rem !important;
 }
 
 .pl-3,
